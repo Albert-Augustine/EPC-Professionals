@@ -1,0 +1,819 @@
+.header {
+	position:fixed;
+	width:100%;
+	z-index: 9;
+}
+.header1 {
+	display:flex;
+	font-size: 14px;
+	background-color: #F5F5F5;
+	padding-top: 17px;
+	margin-top: -6px;
+	padding-right: 138px;
+	margin-left: -9px;
+	margin-right: -11px;
+}
+.header1-width {
+	float:left;
+}
+.header11-left { 
+	margin-left: 171px; 
+	margin-bottom: 15px;
+}
+.header12-left {
+	padding-left:375px; 
+	margin-left: 358px; 
+}
+.header1color a {
+	color:#979797;
+	cursor: pointer;
+}
+.header1colortext span {
+	color: #BABCC4;
+} 
+.header2 {
+	display:flex;
+	font-size: 13px;
+	background-color: #4B4B4B;
+	padding-top: 20px;
+	margin-top: -8px;
+	margin-left: -9px;
+	margin-right: -11px;
+	font-weight: 300;
+	font-family: 'Montserrat ExtraLight';
+}
+.header2-width {
+	float:left;
+}
+.header21-left { 
+	margin-left: 171px; 
+	margin-bottom: 15px;
+	cursor: pointer;
+}
+.header22-left {
+	padding-left:151px; 
+	margin-left: 19rem; 
+	padding-top: 13px;
+}
+.header2colortext a {
+	color:#FFFFFF;
+	text-decoration: none;
+	padding: 33px 1px 36px 1px;
+}
+.header2colortext1 {
+	background-color:#000000;
+	padding: 32px 18px 36px 23px;
+}
+.header2colortext2 {
+	background-color:#ECBC29;
+	padding: 33px;
+	color: black;
+	font-size: 14px;
+	font-family: 'OpenSansLight',Arial,sans-serif;
+}
+.firstimageppt {
+  height:60rem;
+  width: 101.4rem;
+}
+.center1image img {
+	padding-left: -1px;
+	margin-left: -8px;
+}
+.center1imagetext {
+	position: absolute;
+	left:56%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  margin: 20px 2px;
+  color:white;
+  padding-left: 51px;
+  font-family: 'OpenSansLight',Arial,sans-serif;
+}
+.center1imagetext1 {
+ 	font-size: 56px;
+ 	margin-bottom: 20px;
+}
+.center1imagetext2 {
+  font-size: 21px;
+  margin-left: -47px;
+}
+.center1imagetext3 {
+	background-color:#282828;
+	padding: 33px;
+	margin-left: 64px;
+	font-size: 22px;
+	cursor: pointer;
+}
+.center1imagetext4 {
+	background-color:#ECBC29;
+	padding: 33px;
+	color:black;
+	font-size: 22px;
+	cursor: pointer;
+}
+.center2 {
+	background-color: #393939;
+	margin-right: -8px;
+	margin-left: -8px;
+	padding-bottom: 45px;
+}
+.center2text {
+	text-align: center;
+	color:#BA982D;
+	font-family: 'Montserrat Regular';
+	font-size: 29px;
+	padding-top: 22px;
+	padding-bottom: 40px;
+}
+.center2form {
+	color:white;
+	display:flex;
+}
+.formtext {
+	margin-top: 20px;
+}
+.formtext1 {
+	margin-top: 20px;
+	margin-left: 27px;
+}
+.form1 {
+	float:left;
+	width:33%;
+	margin-left: 84px;
+	margin-top: 18px;
+}
+.form2 {
+	float:left;
+	width:33%;
+	margin-left: -146px;
+	margin-top: 18px;
+}
+.form3 {
+	float:left;
+	width:33%;
+	margin-left: -146px;
+	margin-top: 18px;
+}
+.form4 {
+	float:left;
+	width:33%;
+	margin-left: -135px;
+  margin-top: 47px
+}
+#form {
+	height:45px;
+	width:371px;
+	margin-top: 12px;
+}
+#form1 {
+  height:45px;
+  width:371px;
+  margin-top: 12px;
+}
+.checktext {
+	font-size: 10px;
+}
+#formsearch {
+	height:46px;
+	width:97px;
+	margin-top: 12px;
+	background-color: #ECBC29;
+	border-color:#ECBC29; 
+	cursor: pointer;
+}
+#formreset {
+	height:46px;
+	width:97px;
+	margin-top: 12px;
+	background-color: #393939;
+	color: white;
+	border-color:#393939; 
+	cursor: pointer;
+}
+.formlast {
+	float:left;
+	width:33%;
+	margin-left: -414px;
+	margin-top: 18px;
+}
+.centermiddle {
+	color:black;
+	display:flex;
+}
+.centermiddle1 {
+	width:33%;
+	text-align: center;
+	margin-top: 24px;
+  margin-bottom: 24px;
+}
+.centermiddledigit {
+	font-size: 32px;
+}
+.centermiddletext {
+	font-size: 25px;
+	color: #868585;
+}
+.centerlast {
+	background-color: #F5F5F5;
+	padding-top: 20px;
+	padding-bottom: 80px;
+}
+.centerlast1 {
+	text-align: center;
+	font-size: 32px;
+	color: #292D57;
+}
+.centerlast2 {
+	text-align: center;
+	font-size: 15px;
+	color: #868585;
+}
+.centerlastpara {
+	display: flex;
+}
+.centerlastpara1 {
+	float: left;
+	width: 50%;
+	padding-left: 178px;
+	padding-top: 30px;
+}
+.centerlastpara11 {
+	float: left;
+	width: 50%;
+	padding-right: 130px;
+	padding-top: 30px;
+}
+.centerlastpara111 {
+	float: left;
+	width: 43%;
+	padding-left: 178px;
+	padding-top: 30px;
+}
+.centerlastparaicon a {
+	color: #ECBC29;
+	font-size: 37px;
+}
+.centerlastparamain {
+	margin-right: 90px;
+	color: #868585;
+	line-height: 2;
+	font-size: 14px;
+	font-family: 'Montserrat Regular';
+	}
+.centerlastparaheading {
+	font-family: 'Montserrat Regular';
+	color: #282828;
+	font-size: 18px;
+}
+.lastsection {
+	padding-top: 40px;
+}
+.lastsection1 {
+	display: flex;
+}
+.lasticonheading {
+	font-family: 'Montserrat Light';
+	font-weight: 400;
+	color: #282828;
+	text-align: center;
+	font-size: 30px;
+}
+.lasticonimages1 li {
+	list-style-type:none;
+	cursor: pointer;
+	margin-left: 266px;
+	margin-right: -218px;
+	margin-top: 57px;
+	opacity: 0.5;
+}
+.lasticonimages12 li {
+	list-style-type:none;
+	cursor: pointer;
+	margin-left: 359px;
+	margin-right: -294px;
+	margin-bottom: 99px;
+	margin-top: 32px;
+	opacity: 0.5;
+}
+.lastsection2 {
+	background-color: #282828;
+	margin-left: -8px;
+	margin-right: -8px
+}
+.lastsection2heading {
+	color: #FFFFFF;
+	font-family: 'Montserrat Light';
+	font-weight: 400;
+	text-align: center;
+	font-size: 30px;
+	padding-top: 50px;
+}
+.lasticonimages21 {
+	background-color: #ECBC29;
+  border: none;
+	padding: 12px 25px;
+  display: inline-block;
+	margin: 29px 295px;
+  cursor: pointer;
+	padding:35px;
+	border-radius: 50%;
+	margin-right: -23px;
+}
+.lasticonimages22 {
+	background-color: #ECBC29;
+  border: none;
+	padding: 12px 25px;
+  display: inline-block;
+	margin: 29px 302px;
+  cursor: pointer;
+	padding:35px;
+	border-radius: 50%;
+	margin-right: -23px;
+}
+.lasticonimages23 {
+	background-color: #ECBC29;
+  border: none;
+	padding: 12px 25px;
+  display: inline-block;
+	margin: 29px 321px;
+  cursor: pointer;
+	padding:35px;
+	border-radius: 50%;
+	margin-right: -23px;
+}
+.lasticonsize a {
+	font-size: 50px;
+	color:#282828;
+	text-align: center;
+}
+.lasticontext {
+	float: left;
+	width: 33%;
+}
+.lasticontext1 {
+	padding-left: 239px;
+	color:#FAFEFF;
+	font-size: 18px;
+	font-weight: 500;
+}
+.lasticontext2 {
+	padding-left: 108px;
+	color:#FAFEFF;
+	font-size: 18px;
+	font-weight: 500;
+}
+.lasticontext3 {
+	color:#FAFEFF;
+	padding-left: 11px;
+	font-size: 18px;
+	font-weight: 500;
+}
+.lasticontextsize1 {
+	margin-left: 170px;
+	width: 71%;
+	color:#A7B0B6;
+	font-family: 'Montserrat Regular';
+	font-size: 13px;
+	text-align: center;
+}
+.lasticontextsize2 {
+	margin-left: 44px;
+	width: 70%;
+	color:#A7B0B6;
+	font-family: 'Montserrat Regular';
+	font-size: 13px;
+	text-align: center;
+}
+.lasticontextsize3 {
+	color:#A7B0B6;
+	margin-left: -51px;
+  width: 68%;
+	font-family: 'Montserrat Regular';
+	font-size: 13px;
+	text-align: center;
+}
+.lasticontextswitch1 {
+	background-color: #ECBC29;
+  border: none;
+	padding: 12px 25px;
+  display: inline-block;
+  cursor: pointer;
+	color:#282828;
+	margin-left: 265px;
+	border-radius: 25px;
+	margin-top: 33px;
+}
+.lasticontextswitch2 {
+	background-color: #ECBC29;
+  border: none;
+	padding: 12px 25px;
+  display: inline-block;
+  cursor: pointer;
+	color:#282828;
+	margin-left: 134px;
+	border-radius: 25px;
+}
+.lasticontextswitch3 {
+	background-color: #ECBC29;
+  border: none;
+	padding: 12px 25px;
+  display: inline-block;
+  cursor: pointer;
+	color:#282828;
+	margin-left: 48px;
+	border-radius: 25px;
+}
+.secondlast {
+	background-color: #F5F5F5;
+	margin-left: -8px;
+	margin-top: -16px;
+	margin-right: -8px;
+}
+.secondlast1 {
+	text-align: center;
+	padding-top: 31px;
+	color: #868585;
+	font-size: 13px;
+}
+.secondlast2 {
+	font-family: 'Montserrat Light';
+	font-weight: 400;
+	color: #282828;
+	text-align: center;
+	font-size: 30px;
+}
+.secondlast3 {
+	background-color: #ECBC29;
+  border: none;
+	padding: 12px 25px;
+  display: inline-block;
+  cursor: pointer;
+	color:#282828;
+	margin-left: 46rem;
+	border-radius: 6px;
+}
+.end1 li {
+	cursor: pointer;
+  list-style-type:none;
+  display: flex;
+  line-height: 20px;
+  color: #BEBEBE;
+  font-size: 12px;
+  padding: 10px;
+}
+.end2 {
+	display: flex;
+}
+.end3 {
+	display: flex;
+	background-color: #333333;
+	margin-left: -8px;
+	margin-right: -8px;
+}
+.end4 {
+	padding-left:163px;
+}
+.endright {
+	cursor: pointer;
+	padding-top: 22px;
+	padding-left: 386px;
+}
+.endrighticon a {
+	background-color: #ECBC29;
+  border: none;
+	padding: 5px 7px;
+  display: inline-block;
+  cursor: pointer;
+	color:#282828;
+	border-radius: 50px;
+}
+.pointer {
+	cursor: pointer;
+}
+.menuitems1  {
+  color: #ECBC29;
+  background-color: #323030;
+}
+
+
+/*EPC professional Hows its works menu*/
+.opentext {
+	text-align: left;
+	position: absolute;
+	margin-top: -150px;
+	margin-left: 166px;
+}
+.opentext1 {
+	color: #999999;
+	font-size: 11px;
+	font-family: 'OpenSansLight',Arial,sans-serif;
+}
+.opentext2 {
+	color: #999999;
+	font-size: 11px;
+	font-family: 'OpenSansLight',Arial,sans-serif;
+}
+.opentext3 {
+color: #FFFFFF;
+font-size: 59px;
+margin-top: 17px;
+margin-left: -4px;
+}
+.firstimageppt1 {
+  height:21rem;
+  width: 101.4rem;
+}
+.middletext1 {
+	text-align: center;
+}
+.middletext11 {
+	font-family: 'Montserrat Light';
+	color: #282828;
+	font-size: 30px;
+	margin-top: 81px;
+}
+.middletext12 {
+	font-size: 20px;
+	color: #777;
+	font-family: 'Montserrat Light';
+	margin-bottom: 74px;
+}
+.middletextslider1 {
+	display: flex;
+	background-color: #F5F5F5;
+  text-decoration: overline;
+}
+.middletextslider11 {
+	float: left;
+	width: 50%;
+	padding-top: 65px;
+	padding-bottom: 65px;
+}
+.middletextsliderpara {
+	margin-left: 238px;
+	font-family: 'Montserrat Light';
+	color: #282828;
+	font-size: 30px;
+}
+.middletextslider11button {
+	background-color: #ECBC29;
+  border: none;
+	padding: 15px 25px;
+  display: inline-block;
+  cursor: pointer;
+	color:#282828;
+	border-radius: 3px;
+	margin-left: 15rem;
+	font-size: 13px;
+	font-weight: 700;
+}
+.middletextslider1list1 li {
+  margin-left: 214px;
+	line-height: 2;
+  color: #868585;
+	font-size: 14px;
+	font-family: 'Montserrat Light';
+}
+.middletextslider1image img {
+	width: 75%;
+	height: 100%;
+	margin-left: 2rem;
+}
+.middletextslider2 {
+	display: flex;
+  text-decoration: overline;
+}
+.middletextslider21 {
+	float: left;
+	width: 50%;
+	padding-top: 65px;
+	padding-bottom: 65px;
+}
+.middletextsliderpara2 {
+	font-family: 'Montserrat Light';
+	color: #282828;
+	font-size: 30px;
+	margin-top: 55px;
+}
+.middletextsliderpara202 {
+	color: #868585;
+	font-size: 14px;
+	font-family: 'Montserrat Regular';
+}
+.middletextslider11button2 {
+	background-color: #ECBC29;
+  border: none;
+	padding: 15px 25px;
+  display: inline-block;
+  cursor: pointer;
+	color:#282828;
+	border-radius: 3px;
+	margin-left: 6px;
+	font-size: 13px;
+	font-weight: 700;
+}
+.middletextslider1list2 li {
+  margin-left: -24px;
+	line-height: 2;
+  color: #868585;
+	font-size: 14px;
+	font-family: 'Montserrat Light';
+}
+.middletextslider1image2 img {
+	width: 75%;
+	height: 50%;
+	margin-left: 11rem;
+}
+.middletextslider1image202 img {
+	width: 75%;
+	height: 15%;
+	margin-left: 11rem;
+}
+.middletextsliderpara203 {
+	color: #868585;
+	font-size: 14px;
+	font-family: 'Montserrat Regular';
+	margin-left: 15rem;
+}
+.middletextslider1image203 img {
+	width: 75%;
+	height: 52%;
+	margin-left: 3rem;
+}
+.middletextslider212 {
+	float: left;
+	width: 50%;
+	padding-top: 65px;
+	margin-bottom: -273px;
+}
+.middletextslider1image204 img {
+	width: 75%;
+	height: 117%;
+	margin-left: 9rem;
+}
+.middletextslider214 {
+	float: left;
+	width: 50%;
+	padding-top: 65px;
+	padding-bottom: 118px;
+}
+.hide7 {
+  color:#E1E1E1;
+  opacity:0.2; 
+}
+
+/*EPC professional Benefits menu*/
+
+.benifitspara {
+	background-color: #FFFFFF;
+}
+.benifitspara1 {
+	font-family: 'Montserrat Light';
+	color: #282828;
+	text-align: center;
+	font-size: 30px;
+}
+.benifitspara2 {
+	line-height: 2;
+	color: #777;
+	font-size: 20px;
+	text-align: center;
+	margin: 0px 151px;
+}
+.benifitshori {
+	opacity:0.2;
+}
+.benifitscenter {
+	font-family: 'Montserrat Light';
+	font-weight: 400;
+	color: #282828;
+	text-align: center;
+	font-size: 30px;
+}
+.benifitscenter1 {
+	color: #868585;
+	font-size: 14px;
+	font-family: 'Montserrat Regular';
+	text-align: center;
+}
+.benifitscenter2 {
+	padding: 42px 352px;
+	background-color: #F5F5F5;
+}
+.benifitscenter21 {
+	font-family: 'Montserrat Regular';
+	color: #282828;
+	font-size: 18px;
+}
+.benifitscenter22 li {
+	color: #868585;
+	line-height: 2;
+	font-size: 14px;
+	font-family: 'Montserrat Regular';
+	line-height: 35px;
+}
+.benifitscenter23 {
+	color: green;
+	line-height: 2;
+	font-size: 14px;
+	font-family: 'Montserrat Regular';
+}
+.benifitscenter24 {
+	color: #000000;
+	line-height: 2;
+	font-size: 16px;
+	font-family: 'Montserrat Regular';
+	text-decoration: underline;
+	text-align: center;
+}
+.benifitslast {
+	text-align: center;
+	padding: 88px 0px;
+}
+.benifitslast1 {
+	color: #868585;
+	line-height: 2;
+	font-size: 14px;
+	font-family: 'Montserrat Regular';
+	text-align: center;
+	padding: 0px 201px;
+}
+.benifitslast11 {
+	color: #000000;
+	line-height: 2;
+	font-size: 18px;
+	font-family: 'Montserrat Regular';
+	text-align: center;
+}
+.benifitslast12 {
+	color: #868585;
+	line-height: 2;
+	font-size: 18px;
+	font-family: 'Montserrat Regular';
+	text-align: center;
+}
+.secondlastbenifits {
+	background-color: #F5F5F5;
+	margin-left: -8px;
+	margin-top: -16px;
+	margin-right: -8px;
+	padding: 30px 0px;
+}
+
+/*EPC free CV review*/
+.cvreviewcenter {
+	color: #868585;
+	line-height: 2;
+	font-size: 15px;
+	font-family: 'Montserrat Regular';
+	text-align: center;
+}
+.cvreviewcenter1 {
+	color: #868585;
+	line-height: 2;
+	font-size: 15px;
+	font-family: 'Montserrat Regular';
+	text-align: center;
+}
+.cvreviewcenter2 {
+	padding:10px 27em;
+}
+#formcv {
+	height:45px;
+	width: 47rem;
+}
+#formcv1 {
+	height: 31px;
+	width: 7rem;
+	text-align: center;
+	cursor: pointer;
+}
+#formcv2 {
+	height: 61px;
+	width: 47rem;
+	text-align: center;
+	background-color: #EBBB29;
+}
+.formcv {
+	color: #868585;
+	font-family: 'Montserrat Regular';
+	font-size: 16px;
+	line-height: 34px
+}
+.formcv1 {
+	color: #868585;
+	font-family: 'Montserrat Regular';
+	font-size: 16px;
+	line-height: 65px
+}
+.cvreviewlast {
+	color: #000000;
+	line-height: 2;
+	font-size: 14px;
+	font-family: 'Montserrat Regular';
+	text-align: center;
+	padding: 31px 0px;
+}
+::placeholder {
+	opacity:0.2;
+}
